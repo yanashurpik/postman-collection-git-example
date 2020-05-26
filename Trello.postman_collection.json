@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "create board",
+			"name": "create my board",
 			"event": [
 				{
 					"listen": "prerequest",
