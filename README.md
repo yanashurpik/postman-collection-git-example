@@ -1,2 +1,2 @@
 # postman-collection-git-example
-Postman collection shiwing how to use Git
+Postman collection showing how to use Git from Postman
